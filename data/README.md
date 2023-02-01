@@ -1,2 +1,2 @@
 ### data directories
-contains several files and authorization for [instahack.py](https://github.com/termuxhackers-id/main/ihack.py)
+contains several files and authorization for [ihack.py](https://github.com/termuxhackers-id/main/ihack.py)
