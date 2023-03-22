@@ -1,5 +1,5 @@
 # INSTAHACK
-InstaHack - A simple tool for bruteforce an instagram accounts
+InstaHack - Just a simple tool for hacking an instagram accounts
 <img src="https://raw.githubusercontent.com/termuxhackers-id/instahack/main/data/user/instahack.png">
 
 ### installation
