@@ -17,7 +17,7 @@ python3 ihack.py
 ### commands
 command for Ubuntu, Kali Linux, Debian, ETC.
 ````bash
-python3 ihack-linux.py
+python3 instahack.py
 ````
 command for Termux Android or PyDroid
 ````bash
