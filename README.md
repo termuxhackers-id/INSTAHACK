@@ -15,11 +15,7 @@ pip install -r requirements.txt
 python3 ihack.py
 ````
 ### commands
-command for Ubuntu, Kali Linux, Debian, ETC.
-````bash
-python3 instahack.py
-````
-command for Termux Android or PyDroid
+command for Kali Linux, Debian and Termux Android.
 ````bash
 python3 ihack.py
 ````
@@ -27,7 +23,7 @@ python3 ihack.py
 get your instagram cookies with cookiedough extension
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 ### change logs
-```v1.0.7```
+```v1.0.8```
 - added new bruteforce methods
 
 ### contributes
