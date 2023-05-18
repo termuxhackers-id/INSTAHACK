@@ -15,7 +15,7 @@ python3 ihack.py
 get your instagram cookies with cookiedough extension
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 ### change logs
-```v1.0.9```
+```v1.0.10```
 - added new bruteforce methods
 - added new dump methods
 
