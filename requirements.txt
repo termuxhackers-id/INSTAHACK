@@ -4,3 +4,4 @@ requests
 licensing
 pycryptodome
 pycryptodomex
+yaspin
