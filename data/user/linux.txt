@@ -1,0 +1,15 @@
+Mozilla/5.0 (Wayland; Linux x86_64; Huawei) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.205 Safari/537.36 Ubuntu/23.04 (6.0.2979.22-1) Vivaldi/6.0.2979.22
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/113.0.5669.203 Chrome/113.0.5669.203 Safari/537.36
+Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/114.0.5633.222 Chrome/114.0.5633.222 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/112.0.5654.209 Chrome/112.0.5654.209 Safari/537.36
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/100.0.4894.113 Chrome/100.0.4894.113 Safari/537.36
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/777 Firefox/58.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/114.0.5639.194 Chrome/114.0.5639.194 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/113.0.5619.206 Chrome/113.0.5619.206 Safari/537.36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+Mozilla/5.0 (X11; Kali Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+Mozilla/5.0 (Wayland; Linux; U; SailfishOS; like Webcat/5212) AppleWebKit/538.1 (KHTML, like Gecko) Version/5.1 Mobile Safari/538.1
+Mozilla/5.0 (Wayland; Linux i686) AppleWebKit/538.1 (KHTML, like Gecko) Otter/0.9.06 Safari/538.1
+Mozilla/5.0 (Wayland; Linux x86_64; rv:67.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2526.108 Safari/537.36
+Mozilla/5.0 (Wayland; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Falkon/3.0.1 Chrome/65.0.3325.230 Safari/537.36
