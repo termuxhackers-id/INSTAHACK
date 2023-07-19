@@ -1,0 +1,28 @@
+28/9; 408dpi; 1080x2038; motorola; moto g(6); ali; qcom
+28/9; 360dpi; 876x1842; motorola; motorola razr; olson; qcom
+29/10; 420dpi; 1080x2277; motorola; motorola one mid; liber; qcom
+29/10; 240dpi; 480x888; TECNO MOBILE LIMITED/TECNO; TECNO BC2; TECNO-BC2; mt6580
+30/11; 320dpi; 720x1368; TECNO MOBILE LIMITED/TECNO; TECNO BD1; TECNO-BD1; sp7731e_1h10
+29/10; 480dpi; 1080x2016; Sony; H8314; H8314; qcom
+30/11; 420dpi; 1096x2434; Sony; J9110; J9110; qcom
+29/10; 476dpi; 1440x2646; Google/google; Pixel 3 XL; crosshatch; crosshatch
+32/12; 560dpi; 1440x2934; Google/google; Pixel 6 Pro; raven; raven
+30/11; 480dpi; 1080x2161; OPPO; CPH2109; OP4BA5L1; qcom
+30/11; 320dpi; 720x1448; realme; RMX3201; RMX3201; mt6765
+29/10; 480dpi; 1080x2264; realme; RMX1851; RMX1851; qcom
+31/12; 480dpi; 1080x2141; vivo; vivo 1907; 1907; mt6768
+30/11; 440dpi; 1080x2280; vivo; V2040; 2040; qcom
+31/12; 480dpi; 1080x2141; vivo; vivo 1907; 1907; mt6768
+23/6.0; 320dpi; 720x1280; meizu; M5c; M5c; mt6735
+28/9; 320dpi; 720x1362; HMD Global/Nokia; Nokia 5.1 Plus; PDA_sprout; mt6771
+26/8.0.0; 480dpi; 1080x2032; HUAWEI/HONOR; LLD-L31; HWLLD-H; hi6250
+26/8.0.0; 480dpi; 1080x2040; HUAWEI; RNE-L21; HWRNE; hi6250
+30/11; 320dpi; 720x1432; INFINIX MOBILITY LIMITED/Infinix; Infinix X657B; Infinix-X657B; mt6761
+29/10; 320dpi; 720x1440; INFINIX MOBILITY LIMITED/Infinix; Infinix X657; Infinix-X657; mt6580
+23/6.0.1; 480dpi; 1080x1920; Xiaomi; MI 5s; capricorn; qcom
+31/12; 440dpi; 1080x2177; Xiaomi/Redmi; M2101K7AG; sunny; qcom
+30/11; 440dpi; 1080x2220; Xiaomi/Redmi; M2004J19C; galahad; mt6768
+29/10; 320dpi; 720x1449; Xiaomi/Redmi; M2006C3LG; dandelion; mt6762
+30/11; 300dpi; 720x1465; samsung; SM-A125M; a12; mt6765
+31/12; 420dpi; 1080x2288; samsung; SM-G986B; y2s; exynos990
+29/10; 420dpi; 1080x2042; samsung; SM-G973F; beyond1; exynos9820
