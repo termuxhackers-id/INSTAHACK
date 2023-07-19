@@ -1,5 +1,5 @@
-# INSTAHACK
-InstaHack - Just a simple tool for hacking an instagram accounts
+## INSTAHACK
+instahack - advance tool for hacking an instagram accounts
 <img src="https://raw.githubusercontent.com/termuxhackers-id/instahack/main/data/user/v1.0.6.png">
 
 ### installation
@@ -14,10 +14,15 @@ python3 ihack.py
 ### require instagram cookies
 get your instagram cookies with cookiedough extension
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
-### change logs
-```v1.0.10```
+## what's new ?
+instahack ```v2.0.0```
+- added instabot
+- added instadump
+- added new user agent 
 - added new bruteforce methods
-- added new dump methods
+- added new wordlist generator for bruteforce
+- added new display
+- and etc
 
 ### watch video demo
 instahack demo [click here](https://www.instagram.com/reel/Crqd1nFhpP0/?igshid=NTc4MTIwNjQ2YQ==)
