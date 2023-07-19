@@ -1,6 +1,6 @@
 ## INSTAHACK
 instahack - advance tool for hacking an instagram accounts
-<img src="https://raw.githubusercontent.com/termuxhackers-id/instahack/main/data/user/v1.0.6.png">
+<img src="https://raw.githubusercontent.com/termuxhackers-id/instahack/main/data/user/v2.jpg">
 
 ### installation
 ````bash
