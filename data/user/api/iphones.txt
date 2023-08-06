@@ -1,12 +1,20 @@
-iPhone12,1; iOS 15_5; {}; {}; scale=2.00; 828x1792;
-iPhone11,8; iOS 13_1_3; {}; {}; scale=2.00; 828x1792;
-iPhone9,3; iOS 12_0_1; {}; {}; scale=2.00; gamut=wide; 750x1334;
-iPhone7,2; iOS 12_5_1; {}; {}; scale=2.00; 750x1334;
-iPhone7,2; iOS 12_1; {}; {}; scale=2.00; gamut=normal; 750x1334;
-iPhone14,5; iOS 15_4; {}; {}; scale=3.00; 1170x2532;
-iPhone14,3; iOS 15_4_1; {}; {}; scale=3.00; 1284x2778;
-iPhone10,6; iOS 15_6_1; {}; {}; scale=3.00; 1125x2436;
-iPhone14,2; iOS 16_2; {}; {}; scale=3.00; 1170x2532;
-iPhone10,4; iOS 16_2; {}; {}; scale=2.00; 750x1334;
-
-103.1.0.15.119 164094530
+iPhone12,1; iOS 15_5; {}; {}; scale=2.00; 828x1792
+iPhone11,8; iOS 13_1_3; {}; {}; scale=2.00; 828x1792
+iPhone9,3; iOS 12_0_1; {}; {}; scale=2.00; gamut=wide; 750x1334
+iPhone7,2; iOS 12_5_1; {}; {}; scale=2.00; 750x1334
+iPhone7,2; iOS 12_1; {}; {}; scale=2.00; gamut=normal; 750x1334
+iPhone14,5; iOS 15_4; {}; {}; scale=3.00; 1170x2532
+iPhone14,3; iOS 15_4_1; {}; {}; scale=3.00; 1284x2778
+iPhone10,6; iOS 15_6_1; {}; {}; scale=3.00; 1125x2436
+iPhone14,2; iOS 16_2; {}; {}; scale=3.00; 1170x2532
+iPhone10,4; iOS 16_2; {}; {}; scale=2.00; 750x1334
+iPhone14,8; iOS 16_6; {}; {}; scale=3.00; 1284x2778
+iPhone15,2; iOS 16_6; {}; {}; scale=3.00; 1179x2556
+iPhone12,1; iOS 15_6_1; {}; {}; scale=2.00; 828x1792
+iPhone13,2; iOS 16_1; {}; {}; scale=3.00; 1170x2532
+iPhone15,3; iOS 16_5_1; {}; {}; scale=3.44; 1290x2793
+iPhone14,8; iOS 16_5_1; {}; {}; scale=3.00; 1284x2778
+iPhone14,7; iOS 16_5_1; {}; {}; scale=3.00; 1170x2532
+iPhone10,4; iOS 16_2; {}; {}; scale=2.00; 750x1334
+iPhone9,3; iOS 15_7_7; {}; {}; scale=2.34; 750x1331
+iPhone9,3; iOS 15_7_3; {}; {}; scale=2.00; 640x1136
