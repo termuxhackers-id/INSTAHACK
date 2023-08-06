@@ -7,7 +7,7 @@ instahack - advance tool for hacking an instagram accounts
 apt-get install git nano python3 python3-pip && git clone https://github.com/termuxhackers-id/instahack && cd instahack && pip install -r requirements.txt && python3 ihack.py
 ````
 ### commands
-command for Kali Linux, Debian and Termux Android.
+command for Termux Android.
 ````bash
 python3 ihack.py
 ````
