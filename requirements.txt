@@ -1,5 +1,6 @@
 bs4
 rich
+pynacl
 requests
 licensing
 pycryptodome
