@@ -1,12 +1,11 @@
-## INSTAHACK
-instahack - advance tool for hacking an instagram accounts
 <img src="https://raw.githubusercontent.com/termuxhackers-id/instahack/main/data/user/v2.jpg">
 
 ### installation
+installation for Termux Android
 ````bash
-apt-get install git nano python3 python3-pip && git clone https://github.com/termuxhackers-id/instahack && cd instahack && pip install -r requirements.txt && python3 ihack.py
+pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip && pip install wheel rich bs4 pystyle pynacl requests licensing pycryptodomex && python3 ihack.py
 ````
-### commands
+### run wrapper script
 command for Termux Android.
 ````bash
 python3 ihack.py
