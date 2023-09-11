@@ -3,7 +3,7 @@
 ### installation
 installation for Termux Android
 ````bash
-pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel rich bs4 pystyle pynacl requests licensing pycryptodomex && python3 ihack.py
+pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel bs4 rich pytz pynacl requests licensing pycryptodomex && git clone https://github.com/termuxhackers-id/instahack && cd instahack && python3 ihack.py
 ````
 ### run wrapper script
 command for Termux Android.
