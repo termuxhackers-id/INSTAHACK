@@ -1,6 +1,4 @@
 ### rest directories
 contains all bruteforce results
 #
-```ok-date.txt``` authenticated results
-#
-```cp-date.txt``` checkpoint results
+```success-date.txt``` authenticated results
