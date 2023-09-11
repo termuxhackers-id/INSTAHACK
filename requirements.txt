@@ -1,7 +1,7 @@
 bs4
 rich
+pytz
 pynacl
 requests
 licensing
-pycryptodome
 pycryptodomex
