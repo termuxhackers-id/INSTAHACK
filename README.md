@@ -31,9 +31,16 @@ Require instagram cookies, get your cookies with cookiedough (chrome extensions)
 (2) bot automation for instagram (DM, Like, Follow, Comment)
 (3) bruteforce password instagram (2 Method, 8 Options)
 ```
-### demo
+### video demo
 Login with instagram cookies
-[![login](https://asciinema.org/a/607724.svg)](https://asciinema.org/a/607724)
+
+[![demo1](https://asciinema.org/a/607724.svg)](https://asciinema.org/a/607724)
+
+Dump followers and start bruteforce attacks
+
+[![demo2](https://asciinema.org/a/607733.svg)](https://asciinema.org/a/607733)
+
+<b>NOTE</b>: press ```CTRL + C``` to stop the dump process 
 
 ### what's new ?
 Latest update instahack ```v2.0.2-stable```
