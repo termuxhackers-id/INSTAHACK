@@ -17,7 +17,7 @@
 
 Instahack is a CLI-based tool with the main function of guessing password vulnerabilities on Instagram accounts, with the bruteforce attack technique via Instagram Private Api. Instahack can carry out bruteforce attacks like a user logging in to an Android application.
 
-This tool is only available for Termux Android users
+This tool is only available for Termux Android users and Python 3.11
 
 ### installation
 Quick installation for Termux Android
