@@ -1,5 +1,6 @@
-## contains authentication file
+### auth directories 
+contains authentication file
 1) instagram cookies
-   * file - cookies.txt
+   * ````cookies.txt````
 2) license key
-   * file - license.key
+   * ````license.key````
