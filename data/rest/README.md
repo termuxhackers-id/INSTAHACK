@@ -1,4 +1,3 @@
 ### rest directories
-contains all bruteforce results
-#
-```success-date.txt``` authenticated results
+contains all success results
+* ```success-date_time.txt```
