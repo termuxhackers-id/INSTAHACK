@@ -21,7 +21,7 @@ This tool is only available for Termux Android users and Python 3.11
 ### installation
 Quick installation for Termux Android
 ````bash
-pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel bs4 rich pytz pynacl requests licensing phonenumbers pycryptodomex && git clone https://github.com/termuxhackers-id/instahack && cd instahack && git pull && python3 ihack.py
+pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel bs4 rich pytz pynacl requests licensing phonenumbers pycryptodome pycryptodomex httpagentparser && git clone https://github.com/termuxhackers-id/instahack && cd instahack && git pull && python3 ihack.py
 ````
 ### authentication 
 Require instagram cookies, get your cookies with cookiedough (chrome extensions)
