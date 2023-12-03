@@ -6,4 +6,6 @@ pynacl
 requests
 licensing
 phonenumbers
+pycryptodome
 pycryptodomex
+httpagentparser
