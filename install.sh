@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 pkg update -y && pkg upgrade -y
-pkg install binutils python python-pip -y
-pip install wheel
-pip install rich pytz pynacl requests licensing pycryptodomex httpagentparser
+pkg install git which binutils python python-pip -y
+cd && git clone https://github.com/termuxhackers-id/instahack && cd instahack
+pip install wheel && pip install rich pytz PyNacl requests licensing pycryptodomex httpagentparser
 find . -name '*.md' -delete
 python3 ihack.py
