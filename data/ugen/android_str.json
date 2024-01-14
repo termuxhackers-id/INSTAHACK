@@ -1,0 +1,62 @@
+{
+    "realme": [
+        "Realme 1|Mozilla/5.0 (Linux; Android 9; CPH1861) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme 10|Mozilla/5.0 (Linux; Android 13; RMX3630 Build/TP1A.220905.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{} Mobile Safari/537.36",
+        "Realme 10s|Mozilla/5.0 (Linux; Android 12; RMX3617 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme 10 Pro|Mozilla/5.0 (Linux; Android 13; RMX3663) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme 10 Pro 5G|Mozilla/5.0 (Linux; Android 13; RMX3661) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme 11 Pro 5G|Mozilla/5.0 (Linux; Android 13; RMX3771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme GT 5G|Mozilla/5.0 (Linux; Android 11; RMX2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme GT Neo 2T|Mozilla/5.0 (Linux; Android 11; RMX3357) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme Narzo 20 Pro|Mozilla/5.0 (Linux; Android 12; RMX2161) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Realme Narzo 50i|Mozilla/5.0 (Linux; Android 11; RMX3235) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36"
+    ],
+    "oppo": [
+        "OPPO F10|Mozilla/5.0 (Linux; Android 11.1.1; Oppo F10) AppleWebKit/547.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/547.36",
+        "OPPO F11|Mozilla/5.0 (Linux; Android 11; CPH1911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO F11 Pro|Mozilla/5.0 (Linux; Android 11; CPH1969) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO F17 Pro|Mozilla/5.0 (Linux; Android 11; CPH2119) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO F19 Pro|Mozilla/5.0 (Linux; Android 11; CPH2285) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO A15|Mozilla/5.0 (Linux; Android 10; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO A16s|Mozilla/5.0 (Linux; Android 11; CPH2271) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO K10 Pro 5G|Mozilla/5.0 (Linux; Android 12; PGIM10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO Find X5 Pro|Mozilla/5.0 (Linux; Android 12; CPH2305) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "OPPO R17 Pro|Mozilla/5.0 (Linux; Android 10; CPH1877) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36"
+    ],
+    "vivo": [
+        "Vivo 5|Mozilla/5.0 (Linux; Android 5.1; VIVO 5 Build/V0050UU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo 6|Mozilla/5.0 (Linux; Android 6.0; VIVO 6 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo X27|Mozilla/5.0 (Linux; Android 10; V1838A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo 7 Pro|Mozilla/5.0 (Linux; Android 10.0.1; Vivo 7 Pro Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{} Mobile Safari/537.36",
+        "Vivo iQOO|Mozilla/5.0 (Linux; Android 11; V1824A Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{} Mobile Safari/537.36",
+        "Vivo iQOO 10 Pro|Mozilla/5.0 (Linux; Android 13; V2218A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo Y12 Pro|Mozilla/5.0 (Linux; Android 13; V2163A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{} Mobile Safari/537.36",
+        "Vivo Nex 3 5G|Mozilla/5.0 (Linux; Android 10; V1924A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo S1 Pro|Mozilla/5.0 (Linux; Android 10; V1832A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Vivo S15 Pro|Mozilla/5.0 (Linux; Android 12; V2207A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36"
+    ],
+    "samsung": [
+        "Samsung Galaxy M53 5G|Mozilla/5.0 (Linux; Android 12; SM-M536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy M62|Mozilla/5.0 (Linux; Android 11; SM-M625F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy A02s|Mozilla/5.0 (Linux; Android 10; SM-A025G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy A10|Mozilla/5.0 (Linux; Android 10; SM-A105G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy A24|Mozilla/5.0 (Linux; Android 13; SM-A245M Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy S10|Mozilla/5.0 (Linux; Android 12; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy A71 5G|Mozilla/5.0 (Linux; Android 11; SM-A7160) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy A9 Pro|Mozilla/5.0 (Linux; Android 8.0.0; SM-A9100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy M10s|Mozilla/5.0 (Linux; Android 9; SM-M107F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Samsung Galaxy M32 5G|Mozilla/5.0 (Linux; Android 11; SM-M326B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36"
+    ],
+    "infinix": [
+        "Infinix NOTE 2 LTE|Mozilla/5.0 (Linux; Android 5.1; Infinix NOTE 2 LTE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 1|Mozilla/5.0 (Linux; Android 12.1.1; Infinix Hot 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 10 Play|Mozilla/5.0 (Linux; Android 10; Infinix X688C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 10s NFC|Mozilla/5.0 (Linux; Android 11; Infinix X689D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 10T|Mozilla/5.0 (Linux; Android 11; Infinix X689C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix NOTE 3 PRO|Mozilla/5.0 (Linux; Android 7.0; Infinix NOTE 3 Pro; Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix NOTE 8i|Mozilla/5.0 (Linux; Android 10; Infinix X683B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 20 5G|Mozilla/5.0 (Linux; Android 12; Infinix X666) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix Hot 20 Play|Mozilla/5.0 (Linux; Android 12; Infinix X6825) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36",
+        "Infinix NOTE 10 PRO|Mozilla/5.0 (Linux; Android 11; Infinix X695) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{} Mobile Safari/537.36"
+    ]
+}
