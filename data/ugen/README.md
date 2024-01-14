@@ -1,1 +1,0 @@
-## contains useragent strings
