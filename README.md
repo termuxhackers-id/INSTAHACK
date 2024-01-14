@@ -22,7 +22,7 @@ This tool is available for Termux Android.
 ### installation
 Quick installation for Termux Android
 ````bash
-pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel rich pytz pynacl requests licensing phonenumbers pycryptodomex httpagentparser && git clone https://github.com/termuxhackers-id/instahack && cd instahack &&git pull && python3 ihack.py
+pkg install wget -y && wget https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install.sh && bash install.sh
 ````
 ### authentication
 Require instagram cookies, get yor cookies with cookiedough (chrome extensions)
