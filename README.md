@@ -17,46 +17,34 @@
 
 Instahack is a python-based tool for hacking instagram with mass-bruteforce attack and auto-generate password using login method from ssl pinning bypass.
 
-This tool is available for Termux Android.
+<i>this tool is available for termux android.</i>
 
 ### installation
-Quick installation for Termux Android
+auto installation for termux android
 ````bash 
 source <(curl -fsSL http://lnkiy.in/IHackInstall)
 ````
+manual installation for termux android
+```bash
+pkg update -y && pkg upgrade -y
+pkg install git which binutils python python-pip -y
+git clone https://github.com/termuxhackers-id/instahack
+cd instahack && pip install -r requirements.txt
+find . -name '*.md' -delete
+```
+running instahack
+```bash
+python3 ihack.py
+```
 ### authentication
-Require instagram cookies, get yor cookies with cookiedough (chrome extensions)
+- license key (paid)
+- instagram cookies (cookiedough)
 
 ### what's new ?
-Latest update instahack ```v2.0.5```
-- add new login method (ajax, lite, threads)
+latest update instahack ```@v2.0.5```
+- add new login method (ajax,lite,threads)
 - add new display
 
 ### contributes
 - code by [@iqbalmh18](https://instagram.com/iqbalmh18)
 - obfuscator by [@KangProf](https://github.com/KangProf)
-
-### license
-```text
-MIT License
-
-Copyright (c) 2023 Termux Hackers
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
