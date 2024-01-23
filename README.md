@@ -19,6 +19,8 @@ Instahack is a python-based tool for hacking instagram with mass-bruteforce atta
 
 <i>this tool is available for termux android.</i>
 
+![Instahack v2.0.5](https://s13.gifyu.com/images/S01Sk.gif)
+
 ### installation
 auto installation for termux android
 ````bash 
