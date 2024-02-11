@@ -10,7 +10,7 @@
   [github] https://github.com/termuxhackers-id/instahack
   [080224] type ? or help to show available command
 
-  instahack > ?                                        
+  instahack > zuix_xx                                   
 ```
 <img title="INSTAHACK" src="https://img.shields.io/badge/CODENAME%20-INSTAHACK-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> <img title="INSTAHACK" src="https://img.shields.io/badge/VERSION%20-2.0.6-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> 
 
