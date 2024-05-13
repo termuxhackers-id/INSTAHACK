@@ -8,10 +8,11 @@ echo -e "\n[info] installing package and dependencies ...\n"
 pkg install git nano binutils build-essential python3.10 -y
 echo 'alias python3="python3.10"' >> $PREFIX/etc/bash.bashrc
 echo 'alias pip="python3.10 -m pip"' >> $PREFIX/etc/bash.bashrc
+source $PREFIX/etc/bash.bashrc
 echo -e "\n[info] cloning github repository -> 'instahack' ...\n"
-git clone https://github.com/termuxhackers-id/instahack && cd instahack
+git clone https://github.com/termuxhackers-id/instahack
 echo -e "\n[info] installing module and requirements ...\n"
-pip install --upgrade pip && pip install wheel && pip install -r requirements.txt
+cd instahack && pip install --upgrade pip && pip install wheel && pip install -r requirements.txt
 echo -e "\n[info] remove all README.md from data directories ...\n"
 find data/ -name '*.md' -delete
 echo -e "\n[done] running 'ihack.py' to open instahack console ...\n"
