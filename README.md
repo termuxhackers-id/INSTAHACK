@@ -29,6 +29,7 @@ pkg install tur-repo -y
 pkg install git nano binutils build-essential python3.10 -y
 echo 'alias python3="python3.10"' >> $PREFIX/etc/bash.bashrc
 echo 'alias pip="python3.10 -m pip"' >> $PREFIX/etc/bash.bashrc
+source $PREFIX/etc/bash.bashrc
 git clone https://github.com/termuxhackers-id/instahack
 cd instahack
 pip install --upgrade pip
