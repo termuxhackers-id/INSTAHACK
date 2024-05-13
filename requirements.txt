@@ -1,9 +1,7 @@
-wheel
 rich
 pytz
 pynacl
 requests
 licensing
-phonenumbers
 pycryptodomex
-httpagentparser
+prompt_toolkit
