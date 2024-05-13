@@ -32,14 +32,14 @@ echo 'alias pip="python3.10 -m pip"' >> $PREFIX/etc/bash.bashrc
 source $PREFIX/etc/bash.bashrc
 git clone https://github.com/termuxhackers-id/instahack
 cd instahack
-pip install --upgrade pip
-pip install wheel
-pip install -r requirements.txt
+python3.10 -m pip install --upgrade pip
+python3.10 -m pip install wheel
+python3.10 -m pip install -r requirements.txt
 find data/ -name '*.md' -delete
 ```
 running instahack
 ```bash
-python3 ihack.py
+python3.10 ihack.py
 ```
 ### requires
 - license key (paid)
