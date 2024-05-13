@@ -1,3 +1,2 @@
-## contains results file
-- success
-- checked
+### save directories
+contains success and checked results from bruteforce attacks
