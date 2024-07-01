@@ -1,0 +1,15 @@
+# Ignore environment-specific files
+*.env
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore any local development files and directories
+*.log
+*.idea/
+.vscode/
+*.sqlite
+*.pyc
+*.pyo
+__pycache__/
