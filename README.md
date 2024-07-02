@@ -14,6 +14,8 @@
 
 Instahack is a python-based tool for hacking instagram with mass-bruteforce attack and auto-generate password using login method from ssl pinning bypass.
 
+[![Watch the video](https://img.shields.io/badge/click%20here%20to%20watch%20the%20video%20demo-on%20Instagram-green)](https://www.instagram.com/reel/C3xwsykhHUY/?igsh=cDNqNHIzb2hnZ2dn)
+
 <i>this tool is available for termux android.</i>
 
 ### installation
