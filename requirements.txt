@@ -3,5 +3,5 @@ pytz
 pynacl
 requests
 licensing
+socialagent
 pycryptodomex
-prompt_toolkit
