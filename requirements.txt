@@ -4,4 +4,5 @@ pynacl
 requests
 licensing
 socialagent
+prompt_toolkit
 pycryptodomex
