@@ -5,7 +5,7 @@ pkg update -y && pkg upgrade -y
 echo -e "\n[info] installing new repository: tur-repo ...\n"
 pkg install tur-repo -y && pkg update -y
 echo -e "\n[info] installing package and dependencies ...\n"
-pkg install git libffi libsodium binutils build-essential python3.10 -y
+pkg install git libffi libsodium binutils build-essential python3.10 python-cryptography -y
 echo -e "\n[info] cloning github repository -> 'instahack' ...\n"
 git clone https://github.com/termuxhackers-id/instahack
 echo -e "\n[info] installing module and requirements ...\n"
