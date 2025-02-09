@@ -9,7 +9,7 @@ pkg install git rust libffi libsodium binutils build-essential python3.10 -y
 echo -e "\n[info] cloning github repository -> 'instahack' ...\n"
 git clone https://github.com/termuxhackers-id/instahack
 echo -e "\n[info] installing module and requirements ...\n"
-cd instahack && git pull && pip3.10 install --upgrade pip && pip3.10 install wheel && pip3.10 install -r requirements.txt
+cd instahack && git pull && python3.10 -m pip install --upgrade pip && python3.10 -m pip install wheel && python3.10 -m pip install -r requirements.txt
 echo -e "\n[info] remove all README.md from data directories ...\n"
 find data/ -name '*.md' -delete
 echo -e "\n[done] running 'ihack.py' to open instahack console ...\n"
