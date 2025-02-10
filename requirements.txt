@@ -1,7 +1,7 @@
 bs4
 rich
 pytz
+glickey
 requests
-gistlicenkey
 prompt_toolkit
 pycryptodomex
