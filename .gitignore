@@ -1,15 +1,5 @@
-# Ignore environment-specific files
-*.env
-
-# Ignore virtual environments
-venv/
-env/
-
-# Ignore any local development files and directories
-*.log
-*.idea/
-.vscode/
-*.sqlite
-*.pyc
-*.pyo
-__pycache__/
+data/*.md
+data/*.jpg
+data/auth/*.md
+data/dump/*.md
+data/save/*.md
