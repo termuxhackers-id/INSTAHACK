@@ -1,7 +1,6 @@
-bs4
 rich
-pytz
+beaupy
+ihackpy
 glickey
 requests
 prompt_toolkit
-pycryptodomex
