@@ -1,4 +1,4 @@
 ### save directories
-contains success and checked results from bruteforce attacks
-* ```success-date_time.txt```
-* ```checked-date_time.txt```
+contains success and checked accounts
+* ```success-date.json```
+* ```checked-date.json```
