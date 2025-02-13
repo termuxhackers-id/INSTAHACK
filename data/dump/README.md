@@ -1,3 +1,3 @@
 ### dump directories
 contains dump results
-* ```dump-date_time.txt```
+* ```dump-date_time.json```
