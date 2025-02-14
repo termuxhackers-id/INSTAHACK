@@ -4,10 +4,6 @@
 
 **InstaHack**: A python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
 
-[![demo](https://img.shields.io/badge/click%20here%20to%20watch%20the%20video%20demo-on%20instagram)](https://www.instagram.com/reel/DEt6dqjPDg1/?igsh=MWtmZWw3Nmk2endvMg==)
-
-<i>this tool is available for termux android.</i>
-
 ### how to install instahack
 install with pip
 ````bash 
@@ -18,6 +14,9 @@ running instahack
 ```bash
 ihack
 ```
+
+[![asciicast](https://asciinema.org/a/703351.svg)](https://asciinema.org/a/703351)
+
 ### how to buy instahack license key
 * run instahack with ```ihack```
 * type ```register``` in license key input
