@@ -11,15 +11,15 @@
 ### how to install instahack
 install with pip
 ````bash 
-pip install instahack-cli
-pip install --upgrade instahack-cli
+pip install ihack
+pip install --upgrade ihack
 ````
 running instahack
 ```bash
-instahack
+ihack
 ```
 ### how to buy instahack license key
-* run instahack with ```instahack```
+* run instahack with ```ihack```
 * type ```register``` in license key input
 * open the register link ```redirect to whatsapp```
 
