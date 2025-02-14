@@ -26,6 +26,10 @@ ihack
 * type ```register``` in license key input
 * open the register link ```redirect to whatsapp```
 
+### how to start brute force ?
+Here's how to start **Brute Force**
+[![asciicast](https://asciinema.org/a/703393.svg)](https://asciinema.org/a/703393)
+
 ### what's the features ?
 ```text
 * login with multiple accounts (cookies)
