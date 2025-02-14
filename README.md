@@ -5,10 +5,14 @@
 **InstaHack**: A python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
 
 ### how to install instahack
+make sure you have installed **python** with version **3.10.x**
+```bash
+python3 --version
+```
 install with pip
 ````bash 
-pip install ihack
-pip install --upgrade ihack
+pip3.10 install ihack
+pip3.10 install --upgrade ihack
 ````
 running instahack
 ```bash
