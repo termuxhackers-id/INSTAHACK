@@ -18,4 +18,5 @@ echo -e "\n[process] installing instahack wrapper ...\n"
 pip3.10 install .
 rm -rf build ihack.egg-info
 find data/ -name '*.md' -delete
+find . -name '*.jpg' -delete
 echo -e "\n[success] run instahack with command: ihack\n"
