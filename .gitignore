@@ -1,5 +1,5 @@
-instahack/data/*.md
-instahack/data/*.jpg
-instahack/data/auth/*.md
-instahack/data/dump/*.md
-instahack/data/save/*.md
+data/*.md
+data/*.jpg
+data/auth/*.md
+data/dump/*.md
+data/save/*.md
