@@ -1,8 +1,8 @@
-![instahack](data/preview.jpg)
-![instahack](https://img.shields.io/badge/project%20-instahack-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)  
-![instahack](https://img.shields.io/badge/version%20-3.0.5-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)
+![Image](https://github.com/user-attachments/assets/6a6bbb02-fc9e-40aa-9e76-24813904ea36)
+![instahack](https://img.shields.io/badge/project%20-INSTAHACK-SCRIPT?colorA=181818&colorB=16c41e&style=for-the-badge)  
+![instahack](https://img.shields.io/badge/version%20-3.0.5-SCRIPT?colorA=181818&colorB=16c41e&style=for-the-badge)
 
-**InstaHack**: A python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
+**InstaHack** is a python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning.
 
 ### how to install instahack
 make sure you have installed **python** with version **3.10.x**
@@ -51,9 +51,9 @@ Here's how to start **Brute Force**
 ```
 ### maintener
 <p align="center">
-  <img src="https://2.gravatar.com/avatar/883c7ebdf4f802eeeaafad5c229372afdb625e67de197c88272fa2fcf12256fb?size=512" width="150" style="border-radius: 50%;">
+  <img src="https://2.gravatar.com/avatar/883c7ebdf4f802eeeaafad5c229372afdb625e67de197c88272fa2fcf12256fb?size=512" width="100" style="border-radius: 50%;">
   <br>
-  <b>Iqbalmh18</b>
+  <b>IQBAL</b>
   <br>
   <a href="https://github.com/iqbalmh18" target="_blank" style="color: black; text-decoration: none;">
     GitHub Profile
