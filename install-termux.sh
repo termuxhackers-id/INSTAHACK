@@ -16,4 +16,6 @@ echo -e "\n[process] installing requirements ...\n"
 pip3.10 install -r requirements.txt
 echo -e "\n[process] installing instahack wrapper ...\n"
 pip3.10 install .
+rm -rf build ihack.egg-info
+find data/ -name '*.md' -delete
 echo -e "\n[success] run instahack with command: ihack\n"
