@@ -1,4 +1,4 @@
-![instahack](instahack/data/preview.jpg)
+![instahack](data/preview.jpg)
 ![instahack](https://img.shields.io/badge/project%20-instahack-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)  
 ![instahack](https://img.shields.io/badge/version%20-3.0.5-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)
 
