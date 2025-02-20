@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ihack',
-    version='3.0.5',
+    version='3.0.6',
     author='Termux Hackers ID (@iqbalmh18)',
     author_email='termuxhackers.id@gmail.com',
     description='A python based tool for hacking instagram accounts',
