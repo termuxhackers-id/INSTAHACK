@@ -28,7 +28,7 @@ pip3.10 install .
 ```
 installation for **Termux Android**
 ````bash 
-pkg update && pkg upgrade && pkg i -y tur-repo && pkg i -y git python3.10 binutils build-essential && pip3.10 install --upgrade pip && git clone --depth 1 https://github.com/termuxhackers-id/instahack && cd instahack && pip3.10 install -r requirements.txt && pip3.10 install .
+bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/INSTAHACK/refs/heads/main/install-termux.sh)"
 ````
 running instahack
 ```bash
