@@ -3,4 +3,5 @@ beaupy
 ihackpy
 glickey
 requests
+setuptools
 prompt_toolkit
