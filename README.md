@@ -5,14 +5,30 @@
 **InstaHack**: A python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
 
 ### how to install instahack
+installation for **Linux/Windows**
 make sure you have installed **python** with version **3.10.x**
 ```bash
 python3 --version
 ```
-install with pip
+download or clone this repo with **git**
+```bash
+git clone https://github.com/termuxhackers-id/instahack
+```
+open instahack folder
+```bash
+cd instahack
+```
+install requirements 
+```bash
+pip3.10 install -r requirements.txt
+```
+install instahack
+```bash
+pip3.10 install .
+```
+installation for **Termux Android**
 ````bash 
-pip3.10 install ihack
-pip3.10 install --upgrade ihack
+pkg update && pkg upgrade && pkg i -y tur-repo && pkg i -y git python3.10 binutils build-essential && pip3.10 install --upgrade pip && git clone --depth 1 https://github.com/termuxhackers-id/instahack && cd instahack && pip3.10 install -r requirements.txt && pip3.10 install .
 ````
 running instahack
 ```bash
@@ -40,11 +56,10 @@ Here's how to start **Brute Force**
 * brute force from random username (no cookie required)
 * brute force from public username (cookie required)
 * brute force from stored dump files (no cookie required)
-* login method with private api from latest apk pinning
+* login method with private api & public api from latest apk pinning
 * option for show checkpoint accounts
 * option for using password encryption
 * option for using password capitalize
-* option for custom password combolist
 * option for add custom password 
 * manage account results easily (json)
 * manage session account, devices, proxies easily
@@ -70,4 +85,4 @@ Here's how to start **Brute Force**
 This tool takes advantage of user carelessness
 by using easy-to-guess passwords by simply combining
 public details in the profile like their name & username
-maintained from version 1.0.0 until now version 3.0.5
+maintained from version 1.0.0 until now version 3.0.6
