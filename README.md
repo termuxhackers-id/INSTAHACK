@@ -5,30 +5,9 @@
 **InstaHack**: A python-based tool for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
 
 ### how to install instahack
-installation for **Linux/Windows**
-make sure you have installed **python** with version **3.10.x**
-```bash
-python3 --version
-```
-download or clone this repo with **git**
-```bash
-git clone https://github.com/termuxhackers-id/instahack
-```
-open instahack folder
-```bash
-cd instahack
-```
-install requirements 
-```bash
-pip3.10 install -r requirements.txt
-```
-install instahack
-```bash
-pip3.10 install .
-```
-installation for **Termux Android**
+installation for **Linux & Termux Android**
 ````bash 
-bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install-termux.sh)"
+bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install.sh)"
 ````
 running instahack
 ```bash
