@@ -28,7 +28,7 @@ pip3.10 install .
 ```
 installation for **Termux Android**
 ````bash 
-bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/INSTAHACK/refs/heads/main/install-termux.sh)"
+bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install-termux.sh)"
 ````
 running instahack
 ```bash
